@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546716957824",
+    "firebase_url": "https://fir-recyclerviewcardview-aed19.firebaseio.com",
+    "project_id": "fir-recyclerviewcardview-aed19",
+    "storage_bucket": "fir-recyclerviewcardview-aed19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546716957824:android:6cc6ac3861dc72a4",
+        "android_client_info": {
+          "package_name": "com.example.audio_streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546716957824-ob0jpofqi51cbn1vlfrvesttbcb6c1vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO7HZYv2iuZNvOHJPuwtPfS9EJIO5oCV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546716957824-ob0jpofqi51cbn1vlfrvesttbcb6c1vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
